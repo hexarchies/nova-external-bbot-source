@@ -1,0 +1,15 @@
+C:\Users\doomz\Desktop\nova-main\NovaHack\Hack\Private\aim.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\aim.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Hack\Private\engine.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\engine.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Hack\Private\esp.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\esp.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Hack\Private\exploits.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\exploits.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Hack\Private\hack.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\hack.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Hack\Private\memory.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\memory.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Libs\Private\imgui.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\imgui.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Libs\Private\imgui_draw.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\imgui_draw.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Libs\Private\imgui_impl_dx9.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\imgui_impl_dx9.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Libs\Private\imgui_impl_win32.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\imgui_impl_win32.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Libs\Private\imgui_tables.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\imgui_tables.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Libs\Private\imgui_widgets.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\imgui_widgets.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\NovaHack.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\NovaHack.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Overlay\Private\menu.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\menu.obj
+C:\Users\doomz\Desktop\nova-main\NovaHack\Overlay\Private\render.cpp;C:\Users\doomz\Desktop\nova-main\NovaHack\x64\Release\render.obj
